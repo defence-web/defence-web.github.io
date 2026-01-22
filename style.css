@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #f4f6f8;
+  background-color: #ffdbac;
   color: #333;
 }
 
@@ -44,7 +44,7 @@ header h1 {
 
 /* Info Boxes */
 .info-box {
-  background: white;
+  background: #8d5524;
   border-radius: 12px;
   padding: 25px;
   text-align: center;
