@@ -10,6 +10,15 @@ body {
   color: #333;
 }
 
+.para_class {
+  font-size: 16px;
+  line-height: 1.8;
+  color: #6b7280; /* soft gray */
+  max-width: 700px;
+  margin: 10px auto;
+}
+
+
 /* Header */
 header {
   background: #1e293b;
